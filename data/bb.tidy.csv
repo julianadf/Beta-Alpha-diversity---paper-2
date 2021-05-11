@@ -1,0 +1,561 @@
+Landscape;Category;Transect_type;Species;Indiv
+1037;PL.LRD;Between fields;B. bohemicus;1
+1037;PL.LRD;Between fields;B. humilis;5
+1037;PL.LRD;Between fields;B. lapidarius;2
+1037;PL.LRD;Between fields;B. ruderarius;3
+1037;PL.LRD;Between fields;B. soroeensis;1
+1037;PL.LRD;Between fields;B. terrestris;1
+1037;PL.LRD;Big road;B. pascuorum;3
+1037;PL.LRD;Pasture;B. humilis;1
+1037;PL.LRD;Pasture;B. lapidarius;1
+1037;PL.LRD;Pasture;B. lucorum;4
+1037;PL.LRD;Pasture;B. pascuorum;6
+1037;PL.LRD;Pasture;B. ruderarius;4
+1037;PL.LRD;Pasture;B. soroeensis;3
+1037;PL.LRD;Pasture;B. terrestris;4
+1037;PL.LRD;Powerline;B. lucorum;1
+1037;PL.LRD;Powerline;B. ruderarius;1
+1037;PL.LRD;Powerline;B. terrestris;2
+1037;PL.LRD;Small road;B. hortorum;1
+1037;PL.LRD;Small road;B. pascuorum;3
+1278;PL.LRD;Between fields;B. lucorum;1
+1278;PL.LRD;Between fields;B. muscorum;1
+1278;PL.LRD;Between fields;B. pascuorum;3
+1278;PL.LRD;Between fields;B. ruderarius;1
+1278;PL.LRD;Big road;B. pascuorum;1
+1278;PL.LRD;Big road;B. ruderarius;1
+1278;PL.LRD;Big road;B. subterraneus;1
+1278;PL.LRD;Big road;B. sylvarum;1
+1278;PL.LRD;Pasture;B. bohemicus;2
+1278;PL.LRD;Pasture;B. humilis;2
+1278;PL.LRD;Pasture;B. lapidarius;1
+1278;PL.LRD;Pasture;B. pascuorum;5
+1278;PL.LRD;Pasture;B. ruderarius;3
+1278;PL.LRD;Pasture;B. terrestris;2
+1278;PL.LRD;Powerline;B. pascuorum;2
+1278;PL.LRD;Powerline;B. pratorum;1
+1278;PL.LRD;Powerline;B. terrestris;1
+1278;PL.LRD;Small road;B. bohemicus;1
+1278;PL.LRD;Small road;B. humilis;2
+1278;PL.LRD;Small road;B. muscorum;1
+1278;PL.LRD;Small road;B. pascuorum;3
+1278;PL.LRD;Small road;B. pratorum;2
+1278;PL.LRD;Small road;B. sylvestris;2
+1278;PL.LRD;Small road;B. terrestris;2
+1450;NoPL.HRD;Big road;B. terrestris;3
+1450;NoPL.HRD;Pasture;B. lapidarius;1
+1450;NoPL.HRD;Pasture;B. pascuorum;11
+1450;NoPL.HRD;Pasture;B. sylvarum;1
+1450;NoPL.HRD;Small road;B. humilis;1
+1450;NoPL.HRD;Small road;B. pascuorum;1
+1450;NoPL.HRD;Small road;B. pratorum;4
+1605;NoPL.HRD;Big road;B. bohemicus;3
+1605;NoPL.HRD;Big road;B. campestris;1
+1605;NoPL.HRD;Big road;B. lapidarius;1
+1605;NoPL.HRD;Big road;B. lucorum;1
+1605;NoPL.HRD;Big road;B. rupestris;2
+1605;NoPL.HRD;Big road;B. sylvestris;2
+1605;NoPL.HRD;Pasture;B. hortorum;2
+1605;NoPL.HRD;Pasture;B. hypnorum;1
+1605;NoPL.HRD;Pasture;B. lapidarius;5
+1605;NoPL.HRD;Pasture;B. lucorum;5
+1605;NoPL.HRD;Pasture;B. pascuorum;4
+1605;NoPL.HRD;Pasture;B. pratorum;4
+1605;NoPL.HRD;Pasture;B. ruderarius;7
+1605;NoPL.HRD;Pasture;B. soroeensis;2
+1605;NoPL.HRD;Pasture;B. terrestris;3
+1605;NoPL.HRD;Small road;B. pratorum;1
+1851;PL.HRD;Between fields;B. lucorum;6
+1851;PL.HRD;Between fields;B. pascuorum;2
+1851;PL.HRD;Between fields;B. terrestris;3
+1851;PL.HRD;Big road;B. hortorum;1
+1851;PL.HRD;Big road;B. pascuorum;4
+1851;PL.HRD;Big road;B. pratorum;1
+1851;PL.HRD;Big road;B. terrestris;1
+1851;PL.HRD;Pasture;B. jonellus;2
+1851;PL.HRD;Pasture;B. pascuorum;2
+1851;PL.HRD;Pasture;B. pratorum;2
+1851;PL.HRD;Powerline;B. humilis;2
+1851;PL.HRD;Powerline;B. hypnorum;2
+1851;PL.HRD;Powerline;B. pascuorum;3
+1851;PL.HRD;Powerline;B. pratorum;1
+1851;PL.HRD;Small road;B. hypnorum;4
+1851;PL.HRD;Small road;B. lucorum;3
+1851;PL.HRD;Small road;B. pascuorum;14
+1851;PL.HRD;Small road;B. ruderarius;1
+1851;PL.HRD;Small road;B. terrestris;1
+2014;PL.HRD;Big road;B. hypnorum;1
+2014;PL.HRD;Big road;B. lapidarius;3
+2014;PL.HRD;Big road;B. lucorum;4
+2014;PL.HRD;Pasture;B. campestris;3
+2014;PL.HRD;Pasture;B. hortorum;1
+2014;PL.HRD;Pasture;B. pascuorum;9
+2014;PL.HRD;Pasture;B. ruderarius;1
+2014;PL.HRD;Pasture;B. rupestris;1
+2014;PL.HRD;Pasture;B. sylvarum;1
+2014;PL.HRD;Pasture;B. sylvestris;2
+2014;PL.HRD;Pasture;B. terrestris;2
+2014;PL.HRD;Powerline;B. bohemicus;2
+2014;PL.HRD;Powerline;B. humilis;1
+2014;PL.HRD;Powerline;B. pascuorum;1
+2156;NoPL.HRD;Big road;B. ruderarius;1
+2156;NoPL.HRD;Pasture;B. humilis;1
+2156;NoPL.HRD;Pasture;B. hypnorum;1
+2156;NoPL.HRD;Pasture;B. lucorum;3
+2156;NoPL.HRD;Pasture;B. pascuorum;3
+2156;NoPL.HRD;Small road;B. lucorum;1
+2156;NoPL.HRD;Small road;B. pratorum;4
+2333;PL.LRD;Big road;B. humilis;2
+2333;PL.LRD;Pasture;B. bohemicus;2
+2333;PL.LRD;Pasture;B. hortorum;2
+2333;PL.LRD;Pasture;B. humilis;6
+2333;PL.LRD;Pasture;B. lapidarius;6
+2333;PL.LRD;Pasture;B. lucorum;3
+2333;PL.LRD;Pasture;B. muscorum;1
+2333;PL.LRD;Pasture;B. pascuorum;2
+2333;PL.LRD;Pasture;B. ruderarius;6
+2333;PL.LRD;Pasture;B. soroeensis;7
+2333;PL.LRD;Pasture;B. sylvarum;1
+2333;PL.LRD;Pasture;B. sylvestris;1
+2333;PL.LRD;Pasture;B. terrestris;5
+2333;PL.LRD;Powerline;B. hortorum;1
+2333;PL.LRD;Powerline;B. lucorum;1
+2333;PL.LRD;Powerline;B. pascuorum;1
+2333;PL.LRD;Powerline;B. ruderarius;1
+2333;PL.LRD;Powerline;B. sylvarum;1
+2333;PL.LRD;Small road;B. bohemicus;1
+2333;PL.LRD;Small road;B. hortorum;5
+2333;PL.LRD;Small road;B. lapidarius;2
+2333;PL.LRD;Small road;B. pascuorum;2
+2333;PL.LRD;Small road;B. sylvestris;2
+2844;PL.HRD;Between fields;B. bohemicus;1
+2844;PL.HRD;Between fields;B. terrestris;3
+2844;PL.HRD;Big road;B. hortorum;1
+2844;PL.HRD;Big road;B. hypnorum;1
+2844;PL.HRD;Big road;B. lucorum;6
+2844;PL.HRD;Big road;B. pascuorum;3
+2844;PL.HRD;Big road;B. pratorum;2
+2844;PL.HRD;Big road;B. subterraneus;1
+2844;PL.HRD;Big road;B. sylvestris;2
+2844;PL.HRD;Big road;B. terrestris;5
+2844;PL.HRD;Pasture;B. bohemicus;1
+2844;PL.HRD;Pasture;B. hortorum;1
+2844;PL.HRD;Pasture;B. lucorum;6
+2844;PL.HRD;Pasture;B. pascuorum;13
+2844;PL.HRD;Pasture;B. ruderarius;6
+2844;PL.HRD;Pasture;B. soroeensis;1
+2844;PL.HRD;Pasture;B. sylvarum;2
+2844;PL.HRD;Pasture;B. sylvestris;1
+2844;PL.HRD;Pasture;B. terrestris;1
+2844;PL.HRD;Powerline;B. lucorum;5
+2844;PL.HRD;Powerline;B. muscorum;2
+2844;PL.HRD;Powerline;B. pascuorum;13
+2844;PL.HRD;Powerline;B. terrestris;3
+2844;PL.HRD;Small road;B. campestris;2
+2844;PL.HRD;Small road;B. pascuorum;9
+2844;PL.HRD;Small road;B. pratorum;3
+2844;PL.HRD;Small road;B. sylvestris;3
+3897;PL.HRD;Big road;B. hortorum;1
+3897;PL.HRD;Big road;B. lucorum;5
+3897;PL.HRD;Big road;B. pascuorum;2
+3897;PL.HRD;Big road;B. pratorum;1
+3897;PL.HRD;Pasture;B. hortorum;4
+3897;PL.HRD;Pasture;B. lucorum;5
+3897;PL.HRD;Pasture;B. pascuorum;1
+3897;PL.HRD;Pasture;B. terrestris;1
+3897;PL.HRD;Powerline;B. hortorum;1
+3897;PL.HRD;Powerline;B. lucorum;9
+3897;PL.HRD;Powerline;B. pascuorum;2
+3897;PL.HRD;Small road;B. lucorum;3
+3897;PL.HRD;Small road;B. pascuorum;5
+4091;PL.HRD;Between fields;B. bohemicus;3
+4091;PL.HRD;Between fields;B. lapidarius;1
+4091;PL.HRD;Between fields;B. lucorum;2
+4091;PL.HRD;Between fields;B. pratorum;5
+4091;PL.HRD;Between fields;B. soroeensis;2
+4091;PL.HRD;Between fields;B. terrestris;1
+4091;PL.HRD;Big road;B. distinguendus;1
+4091;PL.HRD;Big road;B. hortorum;11
+4091;PL.HRD;Big road;B. pascuorum;3
+4091;PL.HRD;Big road;B. ruderarius;1
+4091;PL.HRD;Big road;B. subterraneus;4
+4091;PL.HRD;Big road;B. sylvarum;2
+4091;PL.HRD;Big road;B. terrestris;2
+4091;PL.HRD;Pasture;B. bohemicus;1
+4091;PL.HRD;Pasture;B. humilis;1
+4091;PL.HRD;Pasture;B. lapidarius;1
+4091;PL.HRD;Pasture;B. lucorum;2
+4091;PL.HRD;Pasture;B. ruderarius;2
+4091;PL.HRD;Pasture;B. soroeensis;2
+4091;PL.HRD;Pasture;B. terrestris;2
+4091;PL.HRD;Powerline;B. campestris;1
+4091;PL.HRD;Powerline;B. lapidarius;2
+4091;PL.HRD;Powerline;B. lucorum;3
+4091;PL.HRD;Powerline;B. pascuorum;3
+4091;PL.HRD;Powerline;B. pratorum;2
+4091;PL.HRD;Powerline;B. ruderarius;2
+4091;PL.HRD;Powerline;B. terrestris;6
+4091;PL.HRD;Small road;B. bohemicus;1
+4091;PL.HRD;Small road;B. pascuorum;2
+4091;PL.HRD;Small road;B. pratorum;1
+4091;PL.HRD;Small road;B. ruderarius;1
+4319;NoPL.HRD;Between fields;B. soroeensis;4
+4319;NoPL.HRD;Between fields;B. terrestris;5
+4319;NoPL.HRD;Big road;B. humilis;3
+4319;NoPL.HRD;Big road;B. lapidarius;7
+4319;NoPL.HRD;Big road;B. lucorum;25
+4319;NoPL.HRD;Big road;B. muscorum;1
+4319;NoPL.HRD;Big road;B. pascuorum;14
+4319;NoPL.HRD;Big road;B. ruderarius;5
+4319;NoPL.HRD;Big road;B. subterraneus;1
+4319;NoPL.HRD;Big road;B. sylvarum;4
+4319;NoPL.HRD;Big road;B. terrestris;3
+4319;NoPL.HRD;Pasture;B. lapidarius;1
+4319;NoPL.HRD;Pasture;B. lucorum;5
+4319;NoPL.HRD;Pasture;B. pascuorum;3
+4319;NoPL.HRD;Pasture;B. terrestris;8
+4319;NoPL.HRD;Small road;B. bohemicus;1
+4319;NoPL.HRD;Small road;B. lapidarius;1
+4319;NoPL.HRD;Small road;B. lucorum;2
+4319;NoPL.HRD;Small road;B. pascuorum;6
+4319;NoPL.HRD;Small road;B. pratorum;5
+4319;NoPL.HRD;Small road;B. ruderarius;1
+4319;NoPL.HRD;Small road;B. soroeensis;3
+4319;NoPL.HRD;Small road;B. terrestris;1
+5041;NoPL.HRD;Between fields;B. distinguendus;1
+5041;NoPL.HRD;Between fields;B. lucorum;2
+5041;NoPL.HRD;Between fields;B. pascuorum;2
+5041;NoPL.HRD;Between fields;B. ruderarius;1
+5041;NoPL.HRD;Between fields;B. sylvarum;4
+5041;NoPL.HRD;Between fields;B. terrestris;2
+5041;NoPL.HRD;Big road;B. lapidarius;2
+5041;NoPL.HRD;Big road;B. lucorum;6
+5041;NoPL.HRD;Big road;B. pascuorum;3
+5041;NoPL.HRD;Big road;B. ruderarius;2
+5041;NoPL.HRD;Big road;B. sylvarum;2
+5041;NoPL.HRD;Big road;B. terrestris;2
+5041;NoPL.HRD;Pasture;B. campestris;1
+5041;NoPL.HRD;Pasture;B. lapidarius;1
+5041;NoPL.HRD;Small road;B. lucorum;1
+5041;NoPL.HRD;Small road;B. pascuorum;1
+5166;NoPL.LRD;Between fields;B. bohemicus;1
+5166;NoPL.LRD;Between fields;B. lapidarius;1
+5166;NoPL.LRD;Between fields;B. lucorum;5
+5166;NoPL.LRD;Between fields;B. soroeensis;5
+5166;NoPL.LRD;Between fields;B. sylvarum;1
+5166;NoPL.LRD;Between fields;B. terrestris;3
+5166;NoPL.LRD;Big road;B. lapidarius;40
+5166;NoPL.LRD;Big road;B. lucorum;9
+5166;NoPL.LRD;Big road;B. pascuorum;2
+5166;NoPL.LRD;Big road;B. pratorum;2
+5166;NoPL.LRD;Big road;B. ruderarius;2
+5166;NoPL.LRD;Big road;B. sylvarum;3
+5166;NoPL.LRD;Big road;B. terrestris;2
+5166;NoPL.LRD;Pasture;B. humilis;1
+5166;NoPL.LRD;Pasture;B. lapidarius;1
+5166;NoPL.LRD;Pasture;B. ruderarius;3
+5166;NoPL.LRD;Pasture;B. subterraneus;1
+5166;NoPL.LRD;Pasture;B. sylvarum;2
+5166;NoPL.LRD;Pasture;B. terrestris;1
+5166;NoPL.LRD;Small road;B. humilis;1
+5166;NoPL.LRD;Small road;B. lapidarius;12
+5166;NoPL.LRD;Small road;B. lucorum;1
+5166;NoPL.LRD;Small road;B. pascuorum;4
+5166;NoPL.LRD;Small road;B. ruderarius;1
+5166;NoPL.LRD;Small road;B. subterraneus;1
+5166;NoPL.LRD;Small road;B. sylvarum;1
+5166;NoPL.LRD;Small road;B. terrestris;5
+5561;PL.LRD;Big road;B. terrestris;1
+5561;PL.LRD;Pasture;B. lapidarius;1
+5561;PL.LRD;Pasture;B. lucorum;1
+5561;PL.LRD;Pasture;B. ruderarius;1
+5561;PL.LRD;Powerline;B. bohemicus;3
+5561;PL.LRD;Powerline;B. campestris;2
+5561;PL.LRD;Powerline;B. lapidarius;1
+5561;PL.LRD;Powerline;B. lucorum;3
+5561;PL.LRD;Powerline;B. pascuorum;1
+5561;PL.LRD;Powerline;B. soroeensis;2
+5561;PL.LRD;Small road;B. lucorum;3
+5561;PL.LRD;Small road;B. ruderarius;6
+5561;PL.LRD;Small road;B. sylvarum;1
+5561;PL.LRD;Small road;B. terrestris;2
+5683;NoPL.LRD;Big road;B. campestris;1
+5683;NoPL.LRD;Big road;B. lapidarius;3
+5683;NoPL.LRD;Big road;B. lucorum;1
+5683;NoPL.LRD;Big road;B. pascuorum;2
+5683;NoPL.LRD;Big road;B. soroeensis;1
+5683;NoPL.LRD;Big road;B. subterraneus;1
+5683;NoPL.LRD;Pasture;B. lapidarius;3
+5683;NoPL.LRD;Pasture;B. pascuorum;3
+5683;NoPL.LRD;Pasture;B. ruderarius;6
+5683;NoPL.LRD;Pasture;B. terrestris;7
+5683;NoPL.LRD;Small road;B. hortorum;8
+5683;NoPL.LRD;Small road;B. humilis;1
+5683;NoPL.LRD;Small road;B. lapidarius;14
+5683;NoPL.LRD;Small road;B. lucorum;7
+5683;NoPL.LRD;Small road;B. pascuorum;21
+5683;NoPL.LRD;Small road;B. ruderarius;7
+5683;NoPL.LRD;Small road;B. rupestris;1
+5683;NoPL.LRD;Small road;B. soroeensis;2
+5683;NoPL.LRD;Small road;B. subterraneus;1
+5683;NoPL.LRD;Small road;B. sylvarum;1
+5683;NoPL.LRD;Small road;B. terrestris;6
+5798;PL.HRD;Between fields;B. lapidarius;2
+5798;PL.HRD;Between fields;B. lucorum;6
+5798;PL.HRD;Between fields;B. ruderarius;3
+5798;PL.HRD;Between fields;B. terrestris;1
+5798;PL.HRD;Big road;B. pascuorum;1
+5798;PL.HRD;Big road;B. ruderarius;1
+5798;PL.HRD;Pasture;B. lucorum;1
+5798;PL.HRD;Pasture;B. pratorum;1
+5798;PL.HRD;Powerline;B. bohemicus;2
+5798;PL.HRD;Powerline;B. lucorum;3
+5798;PL.HRD;Powerline;B. pascuorum;3
+5798;PL.HRD;Powerline;B. rupestris;4
+5798;PL.HRD;Powerline;B. sylvestris;2
+5798;PL.HRD;Powerline;B. terrestris;1
+5798;PL.HRD;Small road;B. bohemicus;1
+5798;PL.HRD;Small road;B. lapidarius;1
+5798;PL.HRD;Small road;B. lucorum;1
+5798;PL.HRD;Small road;B. pascuorum;4
+5798;PL.HRD;Small road;B. ruderarius;2
+5798;PL.HRD;Small road;B. soroeensis;1
+5798;PL.HRD;Small road;B. terrestris;2
+5834;PL.LRD;Between fields;B. bohemicus;1
+5834;PL.LRD;Between fields;B. campestris;2
+5834;PL.LRD;Between fields;B. lucorum;1
+5834;PL.LRD;Big road;B. lucorum;1
+5834;PL.LRD;Big road;B. pascuorum;1
+5834;PL.LRD;Big road;B. sylvarum;1
+5834;PL.LRD;Pasture;B. campestris;1
+5834;PL.LRD;Pasture;B. hortorum;2
+5834;PL.LRD;Pasture;B. lapidarius;1
+5834;PL.LRD;Pasture;B. lucorum;1
+5834;PL.LRD;Pasture;B. pascuorum;1
+5834;PL.LRD;Pasture;B. ruderarius;6
+5834;PL.LRD;Pasture;B. soroeensis;1
+5834;PL.LRD;Powerline;B. campestris;20
+5834;PL.LRD;Powerline;B. lucorum;4
+5834;PL.LRD;Powerline;B. pascuorum;12
+5834;PL.LRD;Powerline;B. pratorum;1
+5834;PL.LRD;Powerline;B. soroeensis;1
+5834;PL.LRD;Powerline;B. sylvestris;3
+5834;PL.LRD;Small road;B. bohemicus;2
+5834;PL.LRD;Small road;B. lapidarius;1
+5834;PL.LRD;Small road;B. lucorum;1
+5834;PL.LRD;Small road;B. pascuorum;7
+5834;PL.LRD;Small road;B. sylvestris;1
+5834;PL.LRD;Small road;B. terrestris;1
+5847;NoPL.LRD;Big road;B. hortorum;1
+5847;NoPL.LRD;Big road;B. lucorum;6
+5847;NoPL.LRD;Big road;B. pascuorum;12
+5847;NoPL.LRD;Big road;B. pratorum;1
+5847;NoPL.LRD;Big road;B. sylvarum;1
+5847;NoPL.LRD;Big road;B. terrestris;13
+5847;NoPL.LRD;Pasture;B. bohemicus;2
+5847;NoPL.LRD;Pasture;B. lucorum;10
+5847;NoPL.LRD;Pasture;B. pascuorum;28
+5847;NoPL.LRD;Pasture;B. pratorum;5
+5847;NoPL.LRD;Pasture;B. ruderarius;1
+5847;NoPL.LRD;Pasture;B. soroeensis;3
+5847;NoPL.LRD;Pasture;B. terrestris;8
+5847;NoPL.LRD;Small road;B. pascuorum;21
+5847;NoPL.LRD;Small road;B. pratorum;3
+5847;NoPL.LRD;Small road;B. sylvestris;1
+6437;NoPL.LRD;Between fields;B. lucorum;1
+6437;NoPL.LRD;Between fields;B. ruderarius;3
+6437;NoPL.LRD;Between fields;B. sylvarum;1
+6437;NoPL.LRD;Big road;B. lapidarius;1
+6437;NoPL.LRD;Big road;B. pascuorum;1
+6437;NoPL.LRD;Big road;B. pratorum;1
+6437;NoPL.LRD;Big road;B. sylvarum;4
+6437;NoPL.LRD;Big road;B. terrestris;2
+6437;NoPL.LRD;Pasture;B. campestris;4
+6437;NoPL.LRD;Pasture;B. hortorum;3
+6437;NoPL.LRD;Pasture;B. lapidarius;8
+6437;NoPL.LRD;Pasture;B. lucorum;1
+6437;NoPL.LRD;Pasture;B. pascuorum;6
+6437;NoPL.LRD;Pasture;B. sylvarum;2
+6437;NoPL.LRD;Small road;B. campestris;2
+6437;NoPL.LRD;Small road;B. hortorum;1
+6437;NoPL.LRD;Small road;B. pascuorum;3
+6437;NoPL.LRD;Small road;B. sylvarum;1
+6437;NoPL.LRD;Small road;B. terrestris;1
+6836;NoPL.HRD;Between fields;B. lapidarius;1
+6836;NoPL.HRD;Between fields;B. lucorum;1
+6836;NoPL.HRD;Between fields;B. pascuorum;1
+6836;NoPL.HRD;Between fields;B. terrestris;2
+6836;NoPL.HRD;Big road;B. pascuorum;5
+6836;NoPL.HRD;Big road;B. sylvarum;1
+6836;NoPL.HRD;Pasture;B. campestris;1
+6836;NoPL.HRD;Pasture;B. lapidarius;1
+6836;NoPL.HRD;Small road;B. bohemicus;1
+7073;NoPL.LRD;Between fields;B. terrestris;6
+7073;NoPL.LRD;Big road;B. pascuorum;1
+7073;NoPL.LRD;Pasture;B. ruderarius;1
+7073;NoPL.LRD;Pasture;B. terrestris;1
+7073;NoPL.LRD;Small road;B. pascuorum;4
+7073;NoPL.LRD;Small road;B. ruderarius;1
+7073;NoPL.LRD;Small road;B. terrestris;2
+7080;PL.HRD;Between fields;B. lucorum;7
+7080;PL.HRD;Between fields;B. terrestris;2
+7080;PL.HRD;Big road;B. pascuorum;1
+7080;PL.HRD;Big road;B. ruderarius;1
+7080;PL.HRD;Pasture;B. pascuorum;4
+7080;PL.HRD;Pasture;B. rupestris;1
+7080;PL.HRD;Pasture;B. terrestris;1
+7080;PL.HRD;Powerline;B. pascuorum;9
+7080;PL.HRD;Powerline;B. pratorum;5
+7080;PL.HRD;Small road;B. pascuorum;3
+7103;PL.HRD;Between fields;B. lucorum;2
+7103;PL.HRD;Between fields;B. soroeensis;1
+7103;PL.HRD;Between fields;B. sylvarum;1
+7103;PL.HRD;Big road;B. ruderarius;1
+7103;PL.HRD;Big road;B. terrestris;1
+7103;PL.HRD;Pasture;B. hypnorum;1
+7103;PL.HRD;Pasture;B. lucorum;4
+7103;PL.HRD;Pasture;B. sylvestris;1
+7103;PL.HRD;Powerline;B. lucorum;31
+7103;PL.HRD;Powerline;B. pascuorum;6
+7103;PL.HRD;Powerline;B. soroeensis;1
+7103;PL.HRD;Powerline;B. sylvestris;1
+7103;PL.HRD;Powerline;B. terrestris;4
+7103;PL.HRD;Small road;B. hortorum;1
+7103;PL.HRD;Small road;B. pratorum;5
+7411;NoPL.LRD;Between fields;B. hortorum;1
+7411;NoPL.LRD;Between fields;B. lucorum;2
+7411;NoPL.LRD;Big road;B. hortorum;1
+7411;NoPL.LRD;Big road;B. hypnorum;1
+7411;NoPL.LRD;Big road;B. lucorum;1
+7411;NoPL.LRD;Big road;B. pascuorum;1
+7411;NoPL.LRD;Big road;B. ruderarius;2
+7411;NoPL.LRD;Pasture;B. humilis;1
+7411;NoPL.LRD;Pasture;B. lapidarius;1
+7411;NoPL.LRD;Pasture;B. pascuorum;1
+7411;NoPL.LRD;Pasture;B. ruderarius;1
+7411;NoPL.LRD;Pasture;B. sylvarum;1
+7411;NoPL.LRD;Small road;B. bohemicus;1
+7411;NoPL.LRD;Small road;B. pratorum;1
+8329;NoPL.LRD;Between fields;B. ruderarius;1
+8329;NoPL.LRD;Between fields;B. soroeensis;1
+8329;NoPL.LRD;Big road;B. hypnorum;6
+8329;NoPL.LRD;Big road;B. pascuorum;2
+8329;NoPL.LRD;Pasture;B. pascuorum;1
+8329;NoPL.LRD;Pasture;B. ruderarius;1
+8329;NoPL.LRD;Small road;B. lapidarius;1
+8329;NoPL.LRD;Small road;B. lucorum;2
+8329;NoPL.LRD;Small road;B. terrestris;1
+8337;NoPL.HRD;Between fields;B. lapidarius;5
+8337;NoPL.HRD;Between fields;B. sylvestris;1
+8337;NoPL.HRD;Between fields;B. terrestris;1
+8337;NoPL.HRD;Pasture;B. pascuorum;1
+8337;NoPL.HRD;Pasture;B. ruderarius;2
+8337;NoPL.HRD;Pasture;B. rupestris;1
+8337;NoPL.HRD;Pasture;B. soroeensis;1
+8337;NoPL.HRD;Pasture;B. sylvarum;1
+8337;NoPL.HRD;Pasture;B. terrestris;1
+8337;NoPL.HRD;Small road;B. pascuorum;12
+8337;NoPL.HRD;Small road;B. sylvarum;2
+8337;NoPL.HRD;Small road;B. terrestris;2
+8768;PL.LRD;Between fields;B. hypnorum;1
+8768;PL.LRD;Between fields;B. lucorum;6
+8768;PL.LRD;Between fields;B. pascuorum;1
+8768;PL.LRD;Between fields;B. pratorum;1
+8768;PL.LRD;Between fields;B. terrestris;1
+8768;PL.LRD;Big road;B. pascuorum;5
+8768;PL.LRD;Big road;B. sylvestris;4
+8768;PL.LRD;Big road;B. terrestris;5
+8768;PL.LRD;Pasture;B. ruderarius;1
+8768;PL.LRD;Powerline;B. bohemicus;2
+8768;PL.LRD;Powerline;B. humilis;1
+8768;PL.LRD;Powerline;B. lapidarius;1
+8768;PL.LRD;Powerline;B. lucorum;5
+8768;PL.LRD;Powerline;B. pascuorum;14
+8768;PL.LRD;Powerline;B. pratorum;5
+8768;PL.LRD;Powerline;B. sylvarum;2
+8768;PL.LRD;Small road;B. bohemicus;1
+8768;PL.LRD;Small road;B. campestris;1
+8768;PL.LRD;Small road;B. lucorum;3
+8768;PL.LRD;Small road;B. pratorum;3
+8768;PL.LRD;Small road;B. sylvarum;1
+8768;PL.LRD;Small road;B. sylvestris;2
+9889;PL.LRD;Between fields;B. lucorum;1
+9889;PL.LRD;Big road;B. hortorum;13
+9889;PL.LRD;Big road;B. lapidarius;1
+9889;PL.LRD;Big road;B. lucorum;3
+9889;PL.LRD;Big road;B. pascuorum;3
+9889;PL.LRD;Big road;B. pratorum;1
+9889;PL.LRD;Big road;B. ruderarius;2
+9889;PL.LRD;Big road;B. sylvarum;5
+9889;PL.LRD;Big road;B. terrestris;1
+9889;PL.LRD;Pasture;B. hypnorum;1
+9889;PL.LRD;Pasture;B. lucorum;3
+9889;PL.LRD;Pasture;B. pascuorum;4
+9889;PL.LRD;Pasture;B. pratorum;2
+9889;PL.LRD;Pasture;B. terrestris;1
+9889;PL.LRD;Powerline;B. bohemicus;2
+9889;PL.LRD;Powerline;B. campestris;1
+9889;PL.LRD;Powerline;B. lucorum;4
+9889;PL.LRD;Powerline;B. pascuorum;2
+9889;PL.LRD;Powerline;B. pratorum;6
+9889;PL.LRD;Small road;B. bohemicus;1
+9889;PL.LRD;Small road;B. hypnorum;1
+9889;PL.LRD;Small road;B. lucorum;2
+9889;PL.LRD;Small road;B. pascuorum;8
+9889;PL.LRD;Small road;B. pratorum;6
+9889;PL.LRD;Small road;B. sylvestris;2
+9931;NoPL.LRD;Between fields;B. lapidarius;6
+9931;NoPL.LRD;Between fields;B. lucorum;35
+9931;NoPL.LRD;Between fields;B. terrestris;5
+9931;NoPL.LRD;Big road;B. bohemicus;10
+9931;NoPL.LRD;Big road;B. hypnorum;1
+9931;NoPL.LRD;Big road;B. lucorum;1
+9931;NoPL.LRD;Big road;B. pascuorum;4
+9931;NoPL.LRD;Big road;B. pratorum;2
+9931;NoPL.LRD;Big road;B. sylvestris;6
+9931;NoPL.LRD;Big road;B. terrestris;1
+9931;NoPL.LRD;Pasture;B. lapidarius;1
+9931;NoPL.LRD;Pasture;B. lucorum;1
+9931;NoPL.LRD;Pasture;B. pascuorum;2
+9931;NoPL.LRD;Pasture;B. pratorum;1
+9931;NoPL.LRD;Pasture;B. terrestris;3
+9931;NoPL.LRD;Small road;B. bohemicus;8
+9931;NoPL.LRD;Small road;B. campestris;5
+9931;NoPL.LRD;Small road;B. lucorum;2
+9931;NoPL.LRD;Small road;B. pascuorum;1
+9931;NoPL.LRD;Small road;B. pratorum;15
+9931;NoPL.LRD;Small road;B. rupestris;1
+9931;NoPL.LRD;Small road;B. soroeensis;1
+9931;NoPL.LRD;Small road;B. sylvestris;5
+9931;NoPL.LRD;Small road;B. terrestris;3
+10099;NoPL.HRD;Big road;B. lucorum;1
+10099;NoPL.HRD;Big road;B. pascuorum;4
+10099;NoPL.HRD;Pasture;B. hortorum;2
+10099;NoPL.HRD;Pasture;B. lapidarius;2
+10099;NoPL.HRD;Pasture;B. lucorum;5
+10099;NoPL.HRD;Pasture;B. soroeensis;29
+10099;NoPL.HRD;Pasture;B. sylvarum;2
+10099;NoPL.HRD;Pasture;B. terrestris;27
+10099;NoPL.HRD;Small road;B. campestris;1
+10099;NoPL.HRD;Small road;B. hypnorum;2
+10099;NoPL.HRD;Small road;B. lucorum;2
+10099;NoPL.HRD;Small road;B. pascuorum;12
+10099;NoPL.HRD;Small road;B. terrestris;7
+10156;PL.LRD;Big road;B. bohemicus;1
+10156;PL.LRD;Big road;B. campestris;1
+10156;PL.LRD;Big road;B. lucorum;2
+10156;PL.LRD;Big road;B. pascuorum;7
+10156;PL.LRD;Big road;B. pratorum;6
+10156;PL.LRD;Big road;B. terrestris;1
+10156;PL.LRD;Pasture;B. bohemicus;1
+10156;PL.LRD;Pasture;B. lucorum;3
+10156;PL.LRD;Powerline;B. lucorum;9
+10156;PL.LRD;Powerline;B. pascuorum;7
+10156;PL.LRD;Powerline;B. pratorum;1
+10156;PL.LRD;Powerline;B. soroeensis;2
+10156;PL.LRD;Powerline;B. terrestris;2
+10156;PL.LRD;Small road;B. lucorum;1
+10156;PL.LRD;Small road;B. pascuorum;6
+10156;PL.LRD;Small road;B. pratorum;3
+10156;PL.LRD;Small road;B. sylvarum;1
+10156;PL.LRD;Small road;B. sylvestris;2

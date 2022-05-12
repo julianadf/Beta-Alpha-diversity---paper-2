@@ -65,7 +65,7 @@ plot.SR.hab.gamma <- dat.SR.gamma %>%
   theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)) +
   guides(color = F)
 
-ggsave2("plot.SR.hab.gamma.svg", plot.SR.hab.gamma, width = 7, height = 4)
+#ggsave2("plot.SR.hab.gamma.svg", plot.SR.hab.gamma, width = 7, height = 4)
 
 # Shannon index
 dat.shannon.gamma <- data %>% select(taxon, Transect_type, Species, Indiv) %>% 
@@ -88,7 +88,7 @@ plot.sh.hab.gamma <- dat.shannon.gamma %>%
   theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)) +
   guides(color = F)
 
-ggsave2("plot.sh.hab.gamma.svg", plot.sh.hab.gamma, width = 7, height = 4)
+#ggsave2("plot.sh.hab.gamma.svg", plot.sh.hab.gamma, width = 7, height = 4)
 
 
 ## alpha-diversity ##
@@ -114,7 +114,7 @@ plot.SR.hab.alpha <- dat.SR.alpha %>%
   theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5)) +
   guides(fill = F)
 
-ggsave2("plot.SR.hab.alpha.svg", plot.SR.hab.alpha, width = 7, height = 4)
+#ggsave2("plot.SR.hab.alpha.svg", plot.SR.hab.alpha, width = 7, height = 4)
 
 # Shannon index
 dat.shannon.alpha <- data %>% select(taxon, Landscape, Transect_type, Species, Indiv) %>% 
@@ -226,6 +226,7 @@ for(i in unique(data$taxon)){
 
 res_aov_alpha_hab_sh2 %>% kable(format = "pipe", digits = 2)
 
+# Beta-diversity ----
 ## differences btw. habitat types, a.k.a. beta-diversity ##
 
 # visualization via NMDS -------
@@ -286,9 +287,11 @@ p.hab <- ggplot() +
              aes(x=NMDS1,y=NMDS2,shape=habitat,colour=habitat),size=1) + # add the point markers
   facet_grid(~ taxon) +
   coord_equal() +
-  scale_color_discrete("Habitat type") +
-  scale_fill_discrete("Habitat type") +
-  scale_shape_discrete("Habitat type") +
+  scale_color_manual("Habitat type", values = c("#d7191c", "#fdae61", "#ffffbf", "#abd9e9", "#2c7bb6"), 
+                     labels = c("Field border", "Power line", "Big road", "Small road", "Pasture")) +
+  scale_fill_manual("Habitat type", values = c("#d7191c", "#fdae61", "#ffffbf", "#abd9e9", "#2c7bb6"), 
+                    labels = c("Field border", "Power line", "Big road", "Small road", "Pasture")) +
+  scale_shape_discrete("Habitat type", labels = c("Field border", "Power line", "Big road", "Small road", "Pasture")) +
   theme_minimal() +
   theme(strip.text.x = element_blank())
   
@@ -299,7 +302,8 @@ maniola <- readPNG("//storage.slu.se/Home$/jada0002/My Documents/My Pictures/Ill
 plant <- readPNG("//storage.slu.se/Home$/jada0002/My Documents/My Pictures/Illustrations/Fragaria.png")
 ggdraw(p.hab) + draw_image(humla, x = 0.22, y = 0.86, hjust = 1, vjust = 1, width = 0.09, height = 0.09) +
   draw_image(maniola, x = 0.49, y = 0.86, hjust = 1, vjust = 1, width = 0.09, height = 0.09) + 
-  draw_image(plant, x = 0.77, y = 0.86, hjust = 1, vjust = 1, width = 0.1, height = 0.1)
+  draw_image(plant, x = 0.77, y = 0.86, hjust = 1, vjust = 1, width = 0.1, height = 0.1) + 
+  scale_fill_discrete(name = "Habitat type", labels = c("Field border", "Power line", "Big road", "Small road", "Pasture"))
 
 
 #ggsave2("p.hab.svg", p.hab, width = 10)
@@ -357,7 +361,7 @@ for(i in unique(data$taxon)){
 
 res_perm_alpha_hab2 %>% kable(format = "pipe", digits = 2)
 
-# cluster analysis
+# cluster analysis ----
 svg("cluster_hab.svg", width = 8, height = 4)
 par(mfrow=c(1,3))
 for(i in unique(data$taxon)){
@@ -371,6 +375,10 @@ for(i in unique(data$taxon)){
        sub=NA, xlab = NA, cex = 1.3, cex.main = 1.5, axes = F)
 }
 dev.off()
+
+cluster<- ggarrange(humla,maniola, plant, bumblebees, butterflies, plants, ncol=3, nrow=2, widths = c(1.15,1,1), heights = c(1,6))
+cluster
+
 
 # beta-diversity
 beta.habType <- c()

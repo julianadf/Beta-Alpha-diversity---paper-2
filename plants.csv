@@ -1,0 +1,103 @@
+Transect_type;Species;;;;;;;;
+Between fields;Achillea millefolium;Powerline;Achillea millefolium;Big road;Acer platanoides;Pasture;Achillea millefolium;Small road;Acer platanoides
+Between fields;Agrimonia eupatoria;Powerline;Achillea ptarmica;Big road;Achillea millefolium;Pasture;Achillea ptarmica;Small road;Achillea millefolium
+Between fields;Agrostis capillaris;Powerline;Agrostis capillaris;Big road;Achillea ptarmica;Pasture;Agrimonia eupatoria;Small road;Achillea ptarmica
+Between fields;Agrostis gigantea;Powerline;Agrostis gigantea;Big road;Agrostis capillaris;Pasture;Agrostis capillaris;Small road;Agrimonia eupatoria
+Between fields;Agrostis stolonifera;Powerline;Agrostis stolonifera;Big road;Agrostis gigantea;Pasture;Agrostis gigantea;Small road;Agrostis capillaris
+Between fields;Alopecurus pratensis;Powerline;Alchemilla monticola;Big road;Alchemilla glabra;Pasture;Alchemilla glaucescens;Small road;Agrostis gigantea
+Between fields;Anthriscus sylvestris;Powerline;Alopecurus pratensis;Big road;Alchemilla glaucescens;Pasture;Alchemilla monticola;Small road;Agrostis stolonifera
+Between fields;Arrhenatherum pratensis;Powerline;Anthoxanthum odoratum;Big road;Alnus glutinosa;Pasture;Alopecurus pratensis;Small road;Alchemilla glaucescens
+Between fields;Arrhenatherum pubescens;Powerline;Anthriscus sylvestris;Big road;Alopecurus pratensis;Pasture;Anthoxanthum odoratum;Small road;Alchemilla monticola
+Between fields;Betula pendula;Powerline;Betula pendula;Big road;Anthoxanthum odoratum;Pasture;Anthriscus sylvestris;Small road;Alopecurus pratensis
+Between fields;Carex ovalis;Powerline;Calluna vulgaris;Big road;Anthriscus sylvestris;Pasture;Arrhenatherum pratensis;Small road;Anthoxanthum odoratum
+Between fields;Cirsium arvense;Powerline;Campanula persicifolia;Big road;Arrhenatherum pratensis;Pasture;Betula pendula;Small road;Anthriscus sylvestris
+Between fields;Dactylis glomerata;Powerline;Campanula rotundifolia;Big road;Betula pendula;Pasture;Briza media;Small road;Arrhenatherum pratensis
+Between fields;Deschampsia cespitosa;Powerline;Carex nigra;Big road;Calluna vulgaris;Pasture;Calluna vulgaris;Small road;Betula pendula
+Between fields;Deschampsia flexuosa;Powerline;Carex ovalis;Big road;Campanula persicifolia;Pasture;Campanula persicifolia;Small road;Briza media
+Between fields;Elymus repens;Powerline;Carex pallescens;Big road;Campanula rotundifolia;Pasture;Campanula rotundifolia;Small road;Calluna vulgaris
+Between fields;Festuca pratensis;Powerline;Carex panacea;Big road;Carex pallescens;Pasture;Carex ovalis;Small road;Campanula persicifolia
+Between fields;Festuca rubra;Powerline;Centaurea jacea;Big road;Centaurea jacea;Pasture;Carex pallescens;Small road;Campanula rotundifolia
+Between fields;Filipendula ulmaria;Powerline;Cirsium arvense;Big road;Cerastium fontanum;Pasture;Carum carvi;Small road;Carex hirta
+Between fields;Fragaria vesca;Powerline;Cirsium palustre;Big road;Cirsium arvense;Pasture;Centaurea jacea;Small road;Carex ovalis
+Between fields;Galium boreale;Powerline;Convallaria majalis;Big road;Dactylis glomerata;Pasture;Cerastium fontanum;Small road;Centaurea jacea
+Between fields;Galium verum;Powerline;Dactylis glomerata;Big road;Deschampsia flexuosa;Pasture;Cirsium arvense;Small road;Cirsium arvense
+Between fields;Glechoma hederacea;Powerline;Danthonia decumbens;Big road;Elymus repens;Pasture;Dactylis glomerata;Small road;Convallaria majalis
+Between fields;Hypericum maculatum;Powerline;Deschampsia cespitosa;Big road;Epilobium montanum;Pasture;Danthonia decumbens;Small road;Dactylis glomerata
+Between fields;Hypericum perforatum;Powerline;Deschampsia flexuosa;Big road;Euphrasia stricta;Pasture;Daucus carota;Small road;Daucus carota
+Between fields;Lathyrus pratensis;Powerline;Elymus repens;Big road;Festuca pratensis;Pasture;Deschampsia cespitosa;Small road;Deschampsia cespitosa
+Between fields;Leontodon autumnalis;Powerline;Epilobium angustifolium;Big road;Festuca rubra;Pasture;Deschampsia flexuosa;Small road;Deschampsia flexuosa
+Between fields;Myosotis arvensis;Powerline;Epilobium montanum;Big road;Filipendula ulmaria;Pasture;Dianthus deltoides;Small road;Dianthus deltoides
+Between fields;Phleum pratense;Powerline;Euphrasia nemorosa;Big road;Fragaria vesca;Pasture;Elymus repens;Small road;Elymus repens
+Between fields;Plantago lanceolata;Powerline;Euphrasia stricta;Big road;Galium boreale;Pasture;Epilobium angustifolium;Small road;Epilobium montanum
+Between fields;Plantago major;Powerline;Festuca ovina;Big road;Galium verum;Pasture;Epilobium montanum;Small road;Euphrasia nemorosa
+Between fields;Poa pratensis;Powerline;Festuca pratensis;Big road;Geranium sylvaticum;Pasture;Euphrasia stricta;Small road;Euphrasia stricta
+Between fields;Potentilla erecta;Powerline;Festuca rubra;Big road;Geum rivale;Pasture;Festuca ovina;Small road;Festuca ovina
+Between fields;Ranunculus acris;Powerline;Filipendula ulmaria;Big road;Hieracium pilosella;Pasture;Festuca pratensis;Small road;Festuca pratensis
+Between fields;Rubus idaeus;Powerline;Filipendula vulgaris;Big road;Hieracium Sylvaticiformia;Pasture;Festuca rubra;Small road;Festuca rubra
+Between fields;Stellaria graminea;Powerline;Fragaria vesca;Big road;Hieracium Vulgatiformia;Pasture;Filipendula ulmaria;Small road;Filipendula ulmaria
+Between fields;Tanacetum vulgare;Powerline;Fragaria viridis;Big road;Hypericum maculatum;Pasture;Filipendula vulgaris;Small road;Fragaria vesca
+Between fields;Taraxacum erythrosperma;Powerline;Galium boreale;Big road;Hypericum perforatum;Pasture;Fragaria vesca;Small road;Fragaria viridis
+Between fields;Taraxacum vulgare;Powerline;Galium verum;Big road;Juncus conglomeratus;Pasture;Galium boreale;Small road;Galium boreale
+Between fields;Tragopogon pratensis;Powerline;Geranium sylvaticum;Big road;Juncus effusus;Pasture;Galium verum;Small road;Galium verum
+Between fields;Trifolium hybridum;Powerline;Geum rivale;Big road;Knautia arvensis;Pasture;Geranium sylvaticum;Small road;Geranium sylvaticum
+Between fields;Trifolium medium;Powerline;Hieracium pilosella;Big road;Lathyrus linifolius;Pasture;Geum rivale;Small road;Geum rivale
+Between fields;Trifolium pratense;Powerline;Hieracium Sylvaticiformia;Big road;Lathyrus pratensis;Pasture;Glechoma hederacea;Small road;Geum urbanum
+Between fields;Trifolium repens;Powerline;Hieracium Vulgatiformia;Big road;Leontodon autumnalis;Pasture;Gnaphalium sylvaticum;Small road;Gnaphalium sylvaticum
+Between fields;Urtica dioica;Powerline;Hypericum maculatum;Big road;Leucanthemum vulgare;Pasture;Helianthemum nummularium;Small road;Helianthemum nummularium
+Between fields;Veronica arvensis;Powerline;Hypericum perforatum;Big road;Lotus corniculatus;Pasture;Hieracium pilosella;Small road;Hieracium pilosella
+Between fields;Veronica chamaedrys;Powerline;Juncus effusus;Big road;Myosotis arvensis;Pasture;Hypericum maculatum;Small road;Hieracium Sylvaticiformia
+Between fields;Vicia cracca;Powerline;Juniperus communis;Big road;Oxalis acetosella;Pasture;Hypericum perforatum;Small road;Hieracium Vulgatiformia
+Between fields;Vicia sepium;Powerline;Lathyrus linifolius;Big road;Phleum pratense;Pasture;Hypochaeris maculata;Small road;Hypericum maculatum
+;;Powerline;Lathyrus pratensis;Big road;Pimpinella major;Pasture;Juncus effusus;Small road;Hypericum perforatum
+;;Powerline;Lotus corniculatus;Big road;Pimpinella saxifraga;Pasture;Lathyrus linifolius;Small road;Hypochaeris maculata
+;;Powerline;Luzula campestris;Big road;Plantago lanceolata;Pasture;Lathyrus pratensis;Small road;Juncus articulatus
+;;Powerline;Oxalis acetosella;Big road;Plantago major;Pasture;Leontodon autumnalis;Small road;Juncus compressus
+;;Powerline;Phleum pratense;Big road;Poa annua;Pasture;Leucanthemum vulgare;Small road;Juncus effusus
+;;Powerline;Plantago major;Big road;Poa pratensis;Pasture;Lotus corniculatus;Small road;Juniperus communis
+;;Powerline;Poa pratensis;Big road;Polygala amarella;Pasture;Luzula campestris;Small road;Lathyrus linifolius
+;;Powerline;Potentilla anserina;Big road;Potentilla anserina;Pasture;Myosotis laxa;Small road;Lathyrus pratensis
+;;Powerline;Potentilla erecta;Big road;Potentilla erecta;Pasture;Oxalis acetosella;Small road;Leontodon autumnalis
+;;Powerline;Prunella vulgaris;Big road;Potentilla reptans;Pasture;Phleum pratense;Small road;Leucanthemum vulgare
+;;Powerline;Quercus robur;Big road;Potentilla tabernaemontani;Pasture;Pimpinella saxifraga;Small road;Lotus corniculatus
+;;Powerline;Ranunculus acris;Big road;Quercus robur;Pasture;Plantago lanceolata;Small road;Luzula campestris
+;;Powerline;Rhinanthus minor;Big road;Ranunculus acris;Pasture;Plantago major;Small road;Oxalis acetosella
+;;Powerline;Rubus idaeus;Big road;Rhinanthus minor;Pasture;Plantago media;Small road;Phleum pratense
+;;Powerline;Rumex acetosella;Big road;Rubus idaeus;Pasture;Poa annua;Small road;Pimpinella major
+;;Powerline;Sedum telephium;Big road;Rubus saxatilis;Pasture;Poa pratensis;Small road;Pimpinella saxifraga
+;;Powerline;Solidago virgaurea;Big road;Rumex acetosa;Pasture;Polygala vulgaris;Small road;Plantago lanceolata
+;;Powerline;Stellaria graminea;Big road;Rumex acetosella;Pasture;Potentilla anserina;Small road;Plantago major
+;;Powerline;Succisa pratensis;Big road;Rumex crispus;Pasture;Potentilla argentea;Small road;Plantago media
+;;Powerline;Taraxacum vulgare;Big road;Solidago virgaurea;Pasture;Potentilla erecta;Small road;Poa annua
+;;Powerline;Trifolium medium;Big road;Stellaria graminea;Pasture;Primula veris;Small road;Poa nemoralis
+;;Powerline;Trifolium pratense;Big road;Tanacetum vulgare;Pasture;Prunella vulgaris;Small road;Poa pratensis
+;;Powerline;Trifolium repens;Big road;Taraxacum erythrosperma;Pasture;Quercus robur;Small road;Polygala vulgaris
+;;Powerline;Urtica dioica;Big road;Taraxacum vulgare;Pasture;Ranunculus acris;Small road;Potentilla anserina
+;;Powerline;Vaccinium myrtillus;Big road;Tragopogon pratensis;Pasture;Rhinanthus minor;Small road;Potentilla argentea
+;;Powerline;Vaccinium vitis-idaea;Big road;Trifolium hybridum;Pasture;Rosa dumalis;Small road;Potentilla erecta
+;;Powerline;Veronica chamaedrys;Big road;Trifolium medium;Pasture;Rubus idaeus;Small road;Potentilla reptans
+;;Powerline;Veronica officinalis;Big road;Trifolium pratense;Pasture;Rumex acetosa;Small road;Prunella vulgaris
+;;Powerline;Vicia cracca;Big road;Trifolium repens;Pasture;Rumex acetosella;Small road;Quercus robur
+;;Powerline;Viola canina;Big road;Urtica dioica;Pasture;Saxifraga granulata;Small road;Ranunculus acris
+;;;;Big road;Vaccinium myrtillus;Pasture;Sedum acre;Small road;Rubus idaeus
+;;;;Big road;Veronica chamaedrys;Pasture;Sedum album;Small road;Rubus saxatilis
+;;;;Big road;Veronica officinalis;Pasture;Silene nutans;Small road;Solidago virgaurea
+;;;;Big road;Vicia cracca;Pasture;Solidago virgaurea;Small road;Stellaria graminea
+;;;;Big road;Vicia sepium;Pasture;Stellaria graminea;Small road;Succisa pratensis
+;;;;Big road;Viola canina;Pasture;Stellaria media;Small road;Tanacetum vulgare
+;;;;;;Pasture;Succisa pratensis;Small road;Taraxacum vulgare
+;;;;;;Pasture;Taraxacum vulgare;Small road;Tragopogon pratensis
+;;;;;;Pasture;Tragopogon pratensis;Small road;Trifolium arvense
+;;;;;;Pasture;Trifolium arvense;Small road;Trifolium hybridum
+;;;;;;Pasture;Trifolium hybridum;Small road;Trifolium medium
+;;;;;;Pasture;Trifolium medium;Small road;Trifolium pratense
+;;;;;;Pasture;Trifolium pratense;Small road;Trifolium repens
+;;;;;;Pasture;Trifolium repens;Small road;Urtica dioica
+;;;;;;Pasture;Urtica dioica;Small road;Vaccinium myrtillus
+;;;;;;Pasture;Vaccinium myrtillus;Small road;Vaccinium vitis-idaea
+;;;;;;Pasture;Vaccinium vitis-idaea;Small road;Veronica chamaedrys
+;;;;;;Pasture;Veronica arvensis;Small road;Veronica officinalis
+;;;;;;Pasture;Veronica chamaedrys;Small road;Vicia cracca
+;;;;;;Pasture;Veronica officinalis;Small road;Vicia sepium
+;;;;;;Pasture;Vicia cracca;Small road;Viola canina
+;;;;;;Pasture;Vicia sepium;;
+;;;;;;Pasture;Viola canina;;

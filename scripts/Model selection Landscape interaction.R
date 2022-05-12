@@ -2,6 +2,7 @@
 # Model selection species richness habitat-wise analyses
 
 rm(list=ls())
+library(here)
 library(tidyverse)
 library(vegan)
 library(lattice)
@@ -24,6 +25,8 @@ library(emmeans)
 library(cowplot)
 library(png)
 library(magick)
+library(ggeffects)
+library(effects)
 
 # Load data
 data.1 <- read.csv2(here("data", "database.corrected.csv"))
@@ -31,7 +34,10 @@ str(data.1)
 
 data <- data.1 %>% 
   mutate(PL=as.factor(PL)) %>% 
-  mutate(RD=as.factor(RD))
+  mutate(RD=as.factor(RD)) %>% 
+  mutate(Transect_type = ifelse(Transect_type=="Between fields", "Field border", Transect_type)) %>% 
+  mutate(Transect_type = ifelse(Transect_type=="Powerline", "Power line", Transect_type)) %>% 
+  mutate(Transect_type = as.factor(Transect_type))
 data
 str(data)
 head(data)
@@ -68,7 +74,11 @@ bf.glmm <- glmer(bf.rich ~ Transect_type + TUVA + PL + RD + (1 | Landscape),
                  data= data)
 summary(bf.glmm)
 plot(bf.glmm)
+plot(allEffects(bf.glmm))
+visreg(bf.glmm, scale="response")
+tab_model(bf.glmm, show.=TRUE)
 anova(bf.glmm)
+Anova(bf.glmm, type="III")
 options(contrasts = c("contr.sum","contr.poly"))
 options('contrasts')
 car::Anova(bf.glmm, type= "III")
@@ -335,6 +345,7 @@ bb.glmm <- glmer(bb.rich ~ Transect_type + TUVA + PL + RD + (1 | Landscape),
                  data= data)
 summary(bb.glmm)
 anova(bb.glmm)
+plot(allEffects(bb.glmm))
 plot(bb.glmm)
 options(contrasts = c("contr.sum","contr.poly"))
 car::Anova(bb.glmm, type="III")
@@ -368,7 +379,7 @@ bumblebees <- ggplot(em.bb, aes(Transect_type, rate)) +
   geom_text(aes(y = 21.1, label = .group)) +
   coord_cartesian(ylim = c(0,21)) +
   #xlab("Habitat type") +
-  ylab("Number of species")+
+  ylab("Species richness")+
   theme_bw() +
   theme(panel.grid.major.y = element_blank(), axis.text.x = element_text(angle = 90), axis.title.x = element_blank(), 
         text = element_text(size=16))
@@ -601,6 +612,10 @@ pp.glmm <- glmer(pp.rich ~ Transect_type + TUVA + PL + RD + (1 | Landscape),
                  data= data.pp)
 
 summary(pp.glmm)
+plot(allEffects(pp.glmm))
+visreg(pp.glmm, scale="response")
+pp.alfa <- effects::effect(term= "PL",  mod= pp.glmm)
+summary(pp.alfa)
 anova(pp.glmm)
 car::Anova(pp.glmm, type="III")
 options(contrasts = c("contr.sum","contr.poly"))
@@ -615,6 +630,7 @@ pp.em <- emmeans(pp.glmm, ~ Transect_type, type="response")
 pp.emms<- emmeans(pp.glmm, "Transect_type")
 pairs(pp.emms)
 plot(pp.emms, comparisons=TRUE)
+
 
 # Adam Flöhr:
 em.pp <- as.data.frame(pp.em)

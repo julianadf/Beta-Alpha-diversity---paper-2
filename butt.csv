@@ -1,0 +1,44 @@
+Transect_type;Species;;;;;;;;
+Between fields;Aglais urticae;Powerline;Aphantopus hyperantus;Big road;Aphantopus hyperantus;Pasture;Anthocharis cardamines;Small road;Aglais urticae
+Between fields;Aphantopus hyperantus;Powerline;Argynnis aglaja;Big road;Coenonympha arcania;Pasture;Aphantopus hyperantus;Small road;Aphantopus hyperantus
+Between fields;Argynnis paphia;Powerline;Boloria euphrosyne;Big road;Gonepteryx rhamni;Pasture;Argynnis aglaja;Small road;Coenonympha arcania
+Between fields;Coenonympha arcania;Powerline;Boloria selene;Big road;Pieris napi;Pasture;Boloria selene;Small road;Inachis io
+Between fields;Inachis io;Powerline;Callophrys rubi;Big road;Polyommatus amandus;Pasture;Celastrina argiolus;Small road;Melitaea athalia
+Between fields;Maniola jurtina;Powerline;Coenonympha arcania;Big road;Aglais urticae;Pasture;Coenonympha arcania;Small road;Pieris napi
+Between fields;Vanessa atalanta;Powerline;Coenonympha pamphilus;Big road;Argynnis niobe;Pasture;Coenonympha pamphilus;Small road;Plebejus idas
+Between fields;Brenthis ino;Powerline;Gonepteryx rhamni;Big road;Lasiommata maera;Pasture;Gonepteryx rhamni;Small road;Polyommatus amandus
+Between fields;Coenonympha pamphilus;Powerline;Lycaena phlaeas;Big road;Maniola jurtina;Pasture;Inachis io;Small road;Polyommatus icarus
+Between fields;Polyommatus amandus;Powerline;Melitaea athalia;Big road;Thymelicus lineola;Pasture;Leptidea sinapis/reali;Small road;Thymelicus lineola
+Between fields;Thymelicus lineola;Powerline;Ochlodes sylvanus;Big road;Argynnis aglaja;Pasture;Melitaea athalia;Small road;Zygaena viciae
+Between fields;Zygaena viciae;Powerline;Pieris brassicae;Big road;Inachis io;Pasture;Ochlodes sylvanus;Small road;Anthocharis cardamines
+Between fields;Pieris napi;Powerline;Pieris napi;Big road;Polygonia c-album;Pasture;Pieris brassicae;Small road;Argynnis paphia
+Between fields;Boloria selene;Powerline;Plebejus argus;Big road;Argynnis paphia;Pasture;Pieris napi;Small road;Boloria euphrosyne
+Between fields;Argynnis adippe;Powerline;Thymelicus lineola;Big road;Brenthis ino;Pasture;Pieris rapae;Small road;Boloria selene
+Between fields;Argynnis aglaja;Powerline;Zygaena viciae;Big road;Lasiommata megera;Pasture;Plebejus argus;Small road;Coenonympha pamphilus
+Between fields;Gonepteryx rhamni;Powerline;Celastrina argiolus;Big road;Ochlodes sylvanus;Pasture;Plebejus idas;Small road;Gonepteryx rhamni
+Between fields;Leptidea sinapis/reali;Powerline;Plebejus idas;Big road;Pieris brassicae;Pasture;Polyommatus amandus;Small road;Lasiommata maera
+Between fields;Polyommatus semiargus;Powerline;Polyommatus amandus;Big road;Polyommatus icarus;Pasture;Polyommatus icarus;Small road;Lasiommata petropolitana
+Between fields;Pieris brassicae;Powerline;Inachis io;Big road;Zygaena lonicerae;Pasture;Polyommatus semiargus;Small road;Pieris brassicae
+Between fields;Plebejus idas;Powerline;Zygaena filipendulae;Big road;Argynnis adippe;Pasture;Thymelicus lineola;Small road;Plebejus argus
+Between fields;Aricia artaxerxes;Powerline;Argynnis paphia;Big road;Boloria selene;Pasture;Zygaena lonicerae;Small road;Polyommatus semiargus
+Between fields;Pieris rapae;Powerline;Aglais urticae;Big road;Leptidea sinapis/reali;Pasture;Zygaena viciae;Small road;Argynnis aglaja
+Between fields;Ochlodes sylvanus;Powerline;Argynnis adippe;Big road;Polyommatus semiargus;Pasture;Aglais urticae;Small road;Leptidea sinapis/reali
+Between fields;Polyommatus icarus;Powerline;Lasiommata maera;Big road;Lycaena phlaeas;Pasture;Argynnis paphia;Small road;Polygonia c-album
+Between fields;Lycaena hippothoe;Powerline;Brenthis ino;Big road;Coenonympha pamphilus;Pasture;Lycaena phlaeas;Small road;Ochlodes sylvanus
+;;Powerline;Polyommatus semiargus;Big road;Carterocephalus silvicola;Pasture;Maniola jurtina;Small road;Maniola jurtina
+;;Powerline;Leptidea sinapis/reali;Big road;Vanessa cardui;Pasture;Aricia artaxerxes;Small road;Brenthis ino
+;;Powerline;Plebejus optilete;Big road;Melitaea athalia;Pasture;Brenthis ino;Small road;Plebejus optilete
+;;Powerline;Polyommatus icarus;Big road;Nymphalis antiopa;Pasture;Vanessa cardui;Small road;Hesperia comma
+;;Powerline;Thecla betulae;Big road;Hesperia comma;Pasture;Lasiommata maera;Small road;Argynnis adippe
+;;Powerline;Hesperia comma;Big road;Limenitis populi;Pasture;Zygaena filipendulae;Small road;Issoria lathonia
+;;Powerline;Issoria lathonia;Big road;Plebejus argus;Pasture;Boloria euphrosyne;Small road;Nymphalis antiopa
+;;Powerline;Aricia artaxerxes;Big road;Zygaena viciae;Pasture;Callophrys rubi;Small road;Vanessa cardui
+;;;;Pasture;Hesperia comma;;;Small road;Lycaena phlaeas
+;;;;Pasture;Nymphalis antiopa;;;Small road;Pieris rapae
+;;;;Pasture;Polygonia c-album;;;Small road;Zygaena filipendulae
+;;;;Pasture;Glaucopsyche alexis;;;Small road;Aricia artaxerxes
+;;;;Pasture;Argynnis adippe;;;Small road;Erynnis tages
+;;;;Pasture;Cupido minimus;;;Small road;Callophrys rubi
+;;;;Pasture;Issoria lathonia;;;Small road;Glaucopsyche alexis
+;;;;Pasture;Pararge aegeria;;;Small road;Thecla betulae
+;;;;;;;;Small road;Carterocephalus silvicola
